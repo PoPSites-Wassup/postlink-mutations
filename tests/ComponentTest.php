@@ -1,6 +1,6 @@
 <?php
 
-namespace PoPSitesWassup\PostMutations;
+namespace PoPSitesWassup\PostLinkMutations;
 
 use PHPUnit\Framework\TestCase;
 

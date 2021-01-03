@@ -20,7 +20,7 @@ class Component extends AbstractComponent
     {
         return [
             \PoPSitesWassup\CustomPostLinkMutations\Component::class,
-            \PoPSitesWassup\PostMutations\Component::class,
+            \PoPSitesWassup\PostLinkMutations\Component::class,
         ];
     }
 }
